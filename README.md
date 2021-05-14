@@ -10,6 +10,8 @@ I will list the vital parts of a computer that you should look for below:
 3. Processor and Motherboard
 4. Computer Case and Power Supply
 
+![Computer](Computer.jpeg)
+
 [SSDandRam](https://github.com/knke113/Final/blob/main/SSDandRam.md)
 [Processor And Motherboard](https://github.com/knke113/Final/blob/main/ProcessorandMotherboard.md)
 [Graphics Card](https://github.com/knke113/Final/blob/main/GraphicsCard.md)
